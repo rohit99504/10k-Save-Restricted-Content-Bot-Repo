@@ -1,6 +1,6 @@
 {
 
-    "name": "Save restricted content bot by @dev_gagan",
+    "name": "Save restricted content bot by @Oye_oo",
     "description": "Telegram bot to save restricted content.",
     "logo": "",
     "keywords": [
@@ -10,30 +10,30 @@
     ],
     "repository": "https://github.com/devgaganin/save_restricted-content-telegram-bot-repo",
     "website": "",
-    "success_url": "https://t.me/dev_gagan",
+    "success_url": "https://t.me/Oye_oo",
     "env": {
             "API_HASH": {
-            "description": "Your API HASH from my.telegram.org",
+            "description": "1666a6103085d7c5c0a15c2ce1037968",
             "value": ""
         },
         "API_ID": {
-            "description": "Your API ID from my.telegram.org",
+            "description": "21896592",
             "value": ""
         },
         "BOT_TOKEN": {
-            "description": "Bot token, get it from @BotFather.",
+            "description": "6822925247:AAE2ZSYlIXwBdUZJasSuUTONG8y0TuwNdTk",
             "value": ""
         },
         "SESSION": {
-            "description": "Pyrogram string session.",
+            "description": "BQFOHZAAbLY2VkrH-LCHy2gZ38cL2eTdOFaBz0OyI1XHw0SuYcyMnO3zAtsh8xUlkeDKnCHt8Ep38W66VH8KmmlNpwFtcKYo3gxZrFXJoCxRHWmGv0guA3sSqaLNqciWWH1cwA_pIGaN20pq9gNDjFQISx_eqRRWvw-GHEdbL1q03vBcmVLxGuJWEUKX-zO0XeIK9hhB0vETy45vbXRcDjk3EfMRj78WlSWWKDR1GDY1dQXiQPbUBjuEiUNuanQoBqi_xQ0xmpGBMhpBmXYyGhe2v6C2TQmhyz4dfZxgEauiVXcmDk2pRwk-8YhA6zGoRHcD8aqFSfD8FMv0U1AQPkErQSc6iQAAAAE5MkcuAA",
             "value": ""
         },
         "AUTH": {
-            "description": "User ID of Bot owner.",
+            "description": "2113261793",
             "value": ""
         },
         "FORCESUB": {
-            "description": "Username name of public channel without using '@'.",
+            "description": "naakwnwnwjwjq",
             "value": ""
         }
     },
