@@ -13,27 +13,27 @@
     "success_url": "https://t.me/Oye_oo",
     "env": {
             "API_HASH": {
-            "description": "1666a6103085d7c5c0a15c2ce1037968",
+            "description": "5f5518e20672b9366c37e534201e204b",
             "value": ""
         },
         "API_ID": {
-            "description": "21896592",
+            "description": "20612052",
             "value": ""
         },
         "BOT_TOKEN": {
-            "description": "6822925247:AAE2ZSYlIXwBdUZJasSuUTONG8y0TuwNdTk",
+            "description": "7080156989:AAEVocEG5NDW-Jz7T-fmFy2edmeDzwFEq9U",
             "value": ""
         },
         "SESSION": {
-            "description": "BQFOHZAAbLY2VkrH-LCHy2gZ38cL2eTdOFaBz0OyI1XHw0SuYcyMnO3zAtsh8xUlkeDKnCHt8Ep38W66VH8KmmlNpwFtcKYo3gxZrFXJoCxRHWmGv0guA3sSqaLNqciWWH1cwA_pIGaN20pq9gNDjFQISx_eqRRWvw-GHEdbL1q03vBcmVLxGuJWEUKX-zO0XeIK9hhB0vETy45vbXRcDjk3EfMRj78WlSWWKDR1GDY1dQXiQPbUBjuEiUNuanQoBqi_xQ0xmpGBMhpBmXYyGhe2v6C2TQmhyz4dfZxgEauiVXcmDk2pRwk-8YhA6zGoRHcD8aqFSfD8FMv0U1AQPkErQSc6iQAAAAE5MkcuAA",
+            "description": "BQBXqUZf2qhMNQ2km1KfSauuXj4cM7V1Oxq7KQ1gzqrCb1QVeUADQXFkCRC84bJeU_oIZG4XjoggqTK0P2Oem2G4kcvZqE_QcE4oGHKvWDSJ6mQEy2Y3DOipTZmwIs2JpWvpBFwVXqrP8F8AgFh2Z5Hihb8PBiHdGs_b2TJtLh1ktiawv1-e2mWInSK0dIuHh4CuFnEhUZqSi11Bgw6CzVxhitIwfRIWKjaXYrWm4q3Hb6ePoq73NIM1BMOcERVU2nOS2nMDoX2c0gHRKQAG0l_Xl2L7J8X0isObvKzwelDDjxz5wN3nmeWjTexGCAK2JWSnUTSFuxhYNTbsyMveAAAAAZ7N_QcAQcA"
             "value": ""
         },
         "AUTH": {
-            "description": "2113261793",
+            "description": "6959267079",
             "value": ""
         },
         "FORCESUB": {
-            "description": "naakwnwnwjwjq",
+            "description": "ssfkdfk",
             "value": ""
         }
     },
