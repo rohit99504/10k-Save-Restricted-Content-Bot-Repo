@@ -156,7 +156,7 @@ async def run_batch(userbot, client, sender, countdown, link):
         if n == len(ids):
             return -2
 
-C = "/stopl"
+C = "/cancell"
 START_PIC = "https://telegra.ph/file/4ec9397a91e98149c256d.jpg"
 TEXT = "👋 Hi, This is 'Paid Restricted Content Saver' bot Made with ❤️ by __** @Oye_oo **__."
 
