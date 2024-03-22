@@ -1,4 +1,4 @@
-#Join me @dev_gagan
+#Join me @jaiavsjqhab
 
 import logging
 import time
@@ -18,7 +18,7 @@ botStartTime = time.time()
 
 
 print("Successfully deployed!")
-print("Bot Deployed : Team SPY")
+print("Bot Deployed : ˙⁠❥⁠˙ℝ𝕆ℍ𝕀𝕋˙⁠❥˙⁠")
 
 if __name__ == "__main__":
     from . import bot
